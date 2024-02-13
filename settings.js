@@ -72,11 +72,11 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
-    "ne" : "https://telegra.ph/file/9faeefd087f561f8996c7.jpg",
+    "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
   LOAD_ANIMATION : true,
  
