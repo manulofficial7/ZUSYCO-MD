@@ -23,8 +23,8 @@ module.exports = {
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/2717975a4410096a24c0f.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    WELCOME: 'https://telegra.ph/file/08ab615797d528bd2f2c4.jpg',
+    GOODBYE: 'https://telegra.ph/file/b521a6846a7452930a174.jpg'
   },
   STOP_SEND : {
         WELCOME_MESSAGE : false,
