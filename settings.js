@@ -19,7 +19,7 @@ module.exports = {
   OWNER_NUMBER: "94760069363",
   SUDO_NUMBERS : "94760069363,94775258999",
   OWNER_NAME: "『 ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️ 』",
-  BOT_NAME : "ＺＵＳＹＣＯ 𝘔𝘈𝘕𝘜 𝘔𝘋",
+  BOT_NAME : "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/2717975a4410096a24c0f.jpg',
@@ -32,7 +32,7 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "public",
+  WORK_TYPE : "private",
   WORK_MODE : "onlygroup",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️',
